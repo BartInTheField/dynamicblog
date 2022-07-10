@@ -14,5 +14,5 @@
   <h1>{title}</h1>
   <img src={coverImageUrl} alt={title} />
   <slot />
-  <a href="/posts">Back to posts</a>
+  <a href="/">Back to posts</a>
 </article>
